@@ -6,3 +6,4 @@ Gestion des pseudos, messages privés, commande !list basique (seulement les pse
 Commandes !start (ferme la porte aux nouvelles demandes de connection), !ban, !suspend, !forgive, !list :
 Tolérance aux diverses pannes de client (détection par échec d'envoi de message, pas de heartbeat demandé), technique du cookie
 ma auto evaluation: je pense que mon travail mérite une note entre 10/20 et 12/20
+POUR L ECRITURE DU CODE (gestion des exceptions et traiter les entrées de l'utilisateur) je me suis inspiré des 2 liens en commentaire de mon projet.
